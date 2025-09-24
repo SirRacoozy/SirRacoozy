@@ -1,6 +1,6 @@
 # 👋 Welcome 👋
 Welcome to my GitHub profile. 
-I'm Marvin, a 25 years old developer from Germany and currently working as a software developer for a german IT company that developes an own transport management software (TMS).
+I'm Marvin, a 27 years old developer from Germany and currently working as a software developer for a german IT company that developes a process-driven system for managing fee procedures.
 
 ## 💻 Tech Stack:
 ### Main:
@@ -15,12 +15,11 @@ I'm Marvin, a 25 years old developer from Germany and currently working as a sof
 ## 💿 OS Knowledge:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📝 IDE / Code editors:
 ![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![XCODE](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![Rider](https://img.shields.io/badge/Rider-000?style=for-the-badge&logo=rider&logoColor=white)
 
 ## 🧮 Stats:
 
